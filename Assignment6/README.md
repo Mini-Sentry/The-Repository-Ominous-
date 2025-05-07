@@ -1,1 +1,1 @@
-
+The two features that I changed/added was a dash code (from my microgame) and another string of code to make sure I was touching the ground before I jumped. The first challenge I faced was to get the wall collision to work, which made me have to put each box collider on a single collision layer to fix. I am very proud of the pixel art, considering it was the first time I had done something like this. The character being inspired by another 2D platformer I like called _Hollow Knight._
